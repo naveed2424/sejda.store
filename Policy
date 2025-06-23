@@ -1,4 +1,20 @@
-
+  
+  
+  <!-- privacy-policy.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; line-height: 1.6; }
+    h1 { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><Thank you for the clarification! Here's a revised **Privacy Policy** tailored for a **free AI tool website** like **sejda.store**. This version assumes you’re not collecting payment information and focuses on user data collected through tool usage, analytics, or forms.
 
 ---
 
@@ -91,8 +107,14 @@ We may update this Privacy Policy occasionally. When we do, we’ll update the d
 
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
-📧 **\[afzal46@gmail.com]**
+📧 **\[afzal460@gmail.com]**
 
 ---
 
 Would you like a **Terms of Use** page as well to go with this?
+/p>
+</body>
+</html>
+
+  
+    
